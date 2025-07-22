@@ -17,3 +17,5 @@ Analyzing the impact of remote work on employee mental health using a dataset th
 
 ## Dashboard
 - <a href="https://github.com/vierohedfam/Impact_of_Remote_Work_on_Mental_Health/blob/main/Impact%20of%20Remote%20Work%20on%20Mental%20Health.pdf"> Presentation</a>
+![Impact of Remote Work on Mental Health](https://github.com/user-attachments/assets/b8f65219-aaad-4d44-8fb1-af9a9e31d31e)
+
