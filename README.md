@@ -14,3 +14,6 @@ Analyzing the impact of remote work on employee mental health using a dataset th
 - Correlation Heatmap
 - Boxplot and Quartiles
 ### Data Scaling (MinMaxScaler)
+
+## Dashboard
+href="https://github.com/vierohedfam/Impact_of_Remote_Work_on_Mental_Health/blob/main/Impact%20of%20Remote%20Work%20on%20Mental%20Health.pdf"> Presentasi</a>
